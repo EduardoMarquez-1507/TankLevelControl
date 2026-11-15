@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+x64/
+*.user
+*.suo
+
+# Python
+__pycache__/
+.venv/
+env/
+*.pyc
+
+# Datos generados (conserva solo la muestra)
+data/*.csv
+!data/sample_run.csv
